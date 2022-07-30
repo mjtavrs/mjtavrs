@@ -1,7 +1,10 @@
 # ✌️ Hey there, welcome to Marcos Tavares' Github!
 
 <div>
-  <p>Hello! <br>My name is Marcos Tavares and I'm a computer science student.</p>
+  <ul>
+    <li>Computer Science student at Estácio</li>
+    <li>Google Data Analysis student at Coursera</li>
+  </ul>
 </div>
 
 
