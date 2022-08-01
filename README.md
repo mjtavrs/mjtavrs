@@ -10,8 +10,8 @@
 
 <h2> My Github stats </h2>
 <div align=center>
-  <img height="130em" src="https://github-readme-stats.vercel.app/api?username=mjtavrs&count_private=false&show_icons=true&hide_title=true&theme=tokyonight">
-  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mjtavrs&layout=compact&langs_count=6&theme=tokyonight">
+  <img height="110em" src="https://github-readme-stats.vercel.app/api?username=mjtavrs&count_private=false&show_icons=true&hide_title=true&theme=tokyonight">
+  <img height="110em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mjtavrs&layout=compact&langs_count=6&theme=tokyonight">
 </div>
 
 <h2>Current skills</h2>
