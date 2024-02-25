@@ -49,6 +49,7 @@
   <img src="https://img.shields.io/badge/GraphQL-E10098.svg?style=for-the-badge&logo=GraphQL&logoColor=white" height="25">
   <img src="https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=Docker&logoColor=white" height="25">
   <img src="https://img.shields.io/badge/Amazon%20AWS-FF9900.svg?style=for-the-badge&logo=Amazon-AWS&logoColor=white" height="25">
+  <img src="https://img.shields.io/badge/Jest-C21325.svg?style=for-the-badge&logo=Jest&logoColor=whitee" height="25">
 </p>
 <br />
 <h2 align="center">If you wanna get in touch with me... 📳</h2>
