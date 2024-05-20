@@ -45,7 +45,7 @@
   <img src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white" height="25">
   <img src="https://img.shields.io/badge/Conventional%20Commits-FE5196.svg?style=for-the-badge&logo=Conventional-Commits&logoColor=white" height="25">
 </div>
-<br /><br />
+<br />
 <h2 align="center">And I have been studying lately 🎯</h2>
 <p align="center">
   <img src="https://img.shields.io/badge/MUI-007FFF.svg?style=for-the-badge&logo=MUI&logoColor=white" height="25">
