@@ -2,10 +2,16 @@
   <img src="https://i.ibb.co/WkvpVDC/MT-300-x-250-px.png">
 </div>
 <h2 align="center">Wanna know a little bit about me? 🤝</h2>
-<p align="justify">
+<p align="center">
   I'm a computer science student at Estácio University and I'm a full stack web developer student based in Recife, Brazil.<br />
   Currently, I'm not working for any company, so I use my whole free time studying, developing my skills and my portfolio as well.
   <br />
+  <a href="https://www.linkedin.com/in/devmarcostavaress/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white" height="25">
+  </a>
+  <a href="https://medium.com/@dev.marcostavares">
+    <img src="https://img.shields.io/badge/Medium-000000.svg?style=for-the-badge&logo=Medium&logoColor=white" height="25">
+  </a>
 </p>
 <br />
 <h2 align="center">What can I currently use to help you 🛠️</h2>
@@ -46,14 +52,4 @@
   <img src="https://img.shields.io/badge/MUI-007FFF.svg?style=for-the-badge&logo=MUI&logoColor=white" height="25">
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1.svg?style=for-the-badge&logo=PostgreSQL&logoColor=white" height="25">
   <img src="https://img.shields.io/badge/Jest-C21325.svg?style=for-the-badge&logo=Jest&logoColor=whitee" height="25">
-</p>
-<br />
-<h2 align="center">Hey, wanna get in touch?</h2>
-<p align="center">
-  <a href="https://www.linkedin.com/in/devmarcostavaress/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white" height="25">
-  </a><br />
-  <a href="https://medium.com/@dev.marcostavares">
-    <img src="https://img.shields.io/badge/Medium-000000.svg?style=for-the-badge&logo=Medium&logoColor=white" height="25">
-  </a>
 </p>
