@@ -1,3 +1,6 @@
+<div align="center">
+  <img src="https://i.ibb.co/WkvpVDC/MT-300-x-250-px.png">
+</div>
 <h1 align="center">Hello, I'm Marcos Tavares!</h1>
 <br />
 <h2 align="center">Wanna know a little bit about me? 🤝</h2>
