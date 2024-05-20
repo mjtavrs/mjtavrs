@@ -10,7 +10,7 @@
   <br />
 </p>
 <br />
-<h2 align="center">Current skills 🛠️</h2>
+<h2 align="center">What can I currently use to help you 🛠️</h2>
 <p align="center">
   🖥️ <b>FRONT-END</b>
 </p>
@@ -18,7 +18,6 @@
   <img src="https://img.shields.io/badge/Sass-CC6699.svg?style=for-the-badge&logo=Sass&logoColor=white" height="25">
   <img src="https://img.shields.io/badge/Tailwind%20CSS-369EFF.svg?style=for-the-badge&logo=Tailwind-CSS&logoColor=white" height="25">
   <img src="https://img.shields.io/badge/styled%20components-DB7093.svg?style=for-the-badge&logo=styled-components&logoColor=white" height="25">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black" height="25">
   <img src="https://img.shields.io/badge/TypeScript-3178C6.svg?style=for-the-badge&logo=TypeScript&logoColor=white" height="25"><br />
   <img src="https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=React&logoColor=black" height="25">
   <img src="https://img.shields.io/badge/Vite-646CFF.svg?style=for-the-badge&logo=Vite&logoColor=white" height="25">
@@ -44,16 +43,14 @@
   <img src="https://img.shields.io/badge/Conventional%20Commits-FE5196.svg?style=for-the-badge&logo=Conventional-Commits&logoColor=white" height="25">
 </div>
 <br /><br />
-<h2 align="center">Here's what I've been studying lately 🎯</h2>
+<h2 align="center">And I have been studying lately 🎯</h2>
 <p align="center">
   <img src="https://img.shields.io/badge/MUI-007FFF.svg?style=for-the-badge&logo=MUI&logoColor=white" height="25">
-  <img src="https://img.shields.io/badge/Redux-764ABC.svg?style=for-the-badge&logo=Redux&logoColor=white" height="25">
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1.svg?style=for-the-badge&logo=PostgreSQL&logoColor=white" height="25">
-  <img src="https://img.shields.io/badge/Amazon%20AWS-FF9900.svg?style=for-the-badge&logo=Amazon-AWS&logoColor=white" height="25">
   <img src="https://img.shields.io/badge/Jest-C21325.svg?style=for-the-badge&logo=Jest&logoColor=whitee" height="25">
 </p>
 <br />
-<h2 align="center">If you wanna get in touch with me... 📳</h2>
+<h2 align="center">Hey, wanna get in touch?</h2>
 <p align="center">
   <a href="https://www.linkedin.com/in/devmarcostavaress/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white" height="25">
