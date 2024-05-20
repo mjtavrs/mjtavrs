@@ -26,7 +26,7 @@
   <img src="https://img.shields.io/badge/Vite-646CFF.svg?style=for-the-badge&logo=Vite&logoColor=white" height="25">
   <img src="https://img.shields.io/badge/Next.js-000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white" height="25">
 </div>
-<br /><br />
+<br />
 <p align="center">
   🛢️ <b>BACK-END & DATABASES</b>
 </p>
@@ -36,7 +36,7 @@
   <img src="https://img.shields.io/badge/Mongoose-F04D35.svg?style=for-the-badge&logo=Mongoose&logoColor=white" height="25">
   <img src="https://img.shields.io/badge/MongoDB-47A248.svg?style=for-the-badge&logo=MongoDB&logoColor=white" height="25">
 </div>
-<br /><br />
+<br />
 <p align="center">
   ⚙️ <b>DEVOPS</b>
 </p>
