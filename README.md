@@ -7,10 +7,10 @@
   Currently, I'm not working for any company, so I use my whole free time studying, developing my skills and my portfolio as well.
   <br /><br/>
   <a href="https://www.linkedin.com/in/devmarcostavaress/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white" height="25">
+    Visit my Linkedin
   </a> • 
   <a href="https://medium.com/@dev.marcostavares">
-    <img src="https://img.shields.io/badge/Medium-000000.svg?style=for-the-badge&logo=Medium&logoColor=white" height="25">
+    Visit my Medium account
   </a>
 </p>
 <h2 align="center">What can I currently use to help you 🛠️</h2>
