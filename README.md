@@ -1,7 +1,9 @@
 <div align="center">
-  <img src="https://i.ibb.co/WkvpVDC/MT-300-x-250-px.png">
+  <img src="https://i.ibb.co/WkvpVDC/MT-300-x-250-px.png](https://i.ibb.co/QcfSMfm/1.png">
 </div>
-<h2 align="center">Wanna know a little bit about me? 🤝</h2>
+<div align="center">
+  <img src="https://i.ibb.co/WkvpVDC/MT-300-x-250-px.png](https://i.ibb.co/QcfSMfm/1.png](https://i.ibb.co/YPgBpd2/2.png">
+</div>
 <p align="center">
   I'm a computer science student at Estácio University and I'm a full stack web developer student based in Recife, Brazil.<br />
   Currently, I'm not working for any company, so I use my whole free time studying, developing my skills and my portfolio as well.
@@ -13,7 +15,9 @@
     Visit my Medium account
   </a>
 </p>
-<h2 align="center">What can I currently use to help you 🛠️</h2>
+<div align="center">
+  <img src="https://i.ibb.co/WkvpVDC/MT-300-x-250-px.png](https://i.ibb.co/QcfSMfm/1.png](https://i.ibb.co/YPgBpd2/2.png](https://i.ibb.co/tzLkHKT/3.png">
+</div>
 <p align="center">
   🖥️ <b>FRONT-END</b>
 </p>
