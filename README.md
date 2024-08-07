@@ -1,9 +1,6 @@
 <div align="center">
   <img src="https://i.ibb.co/QcfSMfm/1.png">
 </div>
-<div align="center">
-  <img src="https://i.ibb.co/YPgBpd2/2.png">
-</div>
 <p align="center">
   I'm a computer science student at Estácio University and I'm a full stack web developer student based in Recife, Brazil.<br />
   Currently, I'm not working for any company, so I use my whole free time studying, developing my skills and my portfolio as well.
