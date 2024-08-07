@@ -1,8 +1,8 @@
 <div align="center">
-  <img src="https://i.ibb.co/WkvpVDC/MT-300-x-250-px.png](https://i.ibb.co/QcfSMfm/1.png">
+  <img src="https://i.ibb.co/QcfSMfm/1.png">
 </div>
 <div align="center">
-  <img src="https://i.ibb.co/WkvpVDC/MT-300-x-250-px.png](https://i.ibb.co/QcfSMfm/1.png](https://i.ibb.co/YPgBpd2/2.png">
+  <img src="https://i.ibb.co/YPgBpd2/2.png">
 </div>
 <p align="center">
   I'm a computer science student at Estácio University and I'm a full stack web developer student based in Recife, Brazil.<br />
@@ -16,7 +16,7 @@
   </a>
 </p>
 <div align="center">
-  <img src="https://i.ibb.co/WkvpVDC/MT-300-x-250-px.png](https://i.ibb.co/QcfSMfm/1.png](https://i.ibb.co/YPgBpd2/2.png](https://i.ibb.co/tzLkHKT/3.png">
+  <img src="https://i.ibb.co/tzLkHKT/3.png">
 </div>
 <p align="center">
   🖥️ <b>FRONT-END</b>
