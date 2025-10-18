@@ -3,7 +3,7 @@
 </div>
 <p align="center">
   I'm a computer science student at Estácio University and I'm a full stack web developer based in Recife, Brazil.<br />
-  Currently, I'm working as a freelancer for a few projects. If you want, you can contact me in my Linkedin page by clicking in the button below.<br/>
+  Currently, I'm working as a developer at Pronet and as a freelancer for a few projects in my free time. If you want, you can contact me in my Linkedin page by clicking in the button below.<br/>
   <b>I'm gonna be happy to talk</b>!
   <br /><br/>
   <a href="https://www.linkedin.com/in/marcostavarestech/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" height="25"></a>  <a href="https://medium.com/@dev.marcostavares"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" height="25"></a>
